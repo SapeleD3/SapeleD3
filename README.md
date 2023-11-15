@@ -7,6 +7,7 @@ I'm Moses Sapele, a results-driven Software Engineer my journey revolves around 
 - Problem-Solving: Adept at unraveling intricate problems and devising elegant solutions.
 
 💼 Professional Achievements:
+
 At Payhippo, I played a pivotal role in optimizing operational efficiency:
 - Cost Reduction: Slashed the operating cost of the statement parsing layer by an impressive 97%, 
    resulting in substantial savings for the company.
@@ -16,9 +17,11 @@ At Payhippo, I played a pivotal role in optimizing operational efficiency:
    request latencies and enhancing system responsiveness.
 
 🎯 Career Goals:
+
 My aspiration is to cultivate an intimate understanding of the tools I work with. I am committed to continuous learning, refining my skills in Node.js, TypeScript, and Python, DevOps and Hope to develop a skill in advocacy, building up the courage to fearlessly sharing my insights and experiences with the community.
 
 🌍 Open to Opportunities:
+
 I am on the lookout for software engineering roles that not only challenge me but also provide an environment for upskilling in Python and contributing to impactful product development.
 
 Let's connect and explore the endless possibilities and innovation! 🚀
